@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Sape">
+        <item>Seleccionar</item>
+        <item>Amateur</item>
+        <item>Naruto</item>
+        <item>Hechi</item>
+    </string-array>
+</resources>
